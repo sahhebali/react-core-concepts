@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  background-color: antiquewhite;
+  color: blue;
+  padding: 10px;
+  border-radius: 10px;
+}
+.persion{
+ background-color:lightskyblue;
+ color:black;
+ border: 3px solid red;
+ margin: 10px;
+ border-radius: 20px;
+}
